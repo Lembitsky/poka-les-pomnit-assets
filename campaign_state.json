@@ -2862,7 +2862,7 @@
       },
       "default_view": "interior",
       "x": 18.5,
-      "y": 80.0,
+      "y": 80,
       "icon": "⌂"
     },
     "abandoned-camp": {
@@ -2875,8 +2875,8 @@
         "exterior": "assets/locations/abandoned_camp.png"
       },
       "default_view": "exterior",
-      "x": 69.0,
-      "y": 43.0,
+      "x": 69,
+      "y": 43,
       "icon": "◇"
     },
     "old-riverbed": {
@@ -2901,7 +2901,7 @@
         "exterior": "assets/locations/well.png"
       },
       "default_view": "exterior",
-      "x": 67.0,
+      "x": 67,
       "y": 17.5,
       "icon": "?"
     },
@@ -2921,8 +2921,8 @@
       "views": {
         "exterior": "assets/locations/living_forest_stream.png"
       },
-      "x": 24.0,
-      "y": 74.0,
+      "x": 24,
+      "y": 74,
       "icon": "≈"
     },
     "living-forest": {
@@ -3408,8 +3408,8 @@
       "name": "Арден",
       "role": "Изменённый · хранитель прохода у Колодца",
       "summary": "Изменённый человек у Колодца, сохранивший имя, речь и сложное поведение. Передаёт Колодцу ритмические сигналы и иногда приводит других изменённых.",
-      "image": "assets/party.png",
-      "fullImage": "assets/party.png"
+      "image": "https://raw.githubusercontent.com/Lembitsky/poka-les-pomnit-assets/main/character_arden.png",
+      "fullImage": "https://raw.githubusercontent.com/Lembitsky/poka-les-pomnit-assets/main/character_arden.png"
     },
     "elirel": {
       "id": "elirel",
