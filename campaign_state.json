@@ -537,6 +537,20 @@
         "taren",
         "living-forest-stream"
       ]
+    },
+    {
+      "id": "scene-nadin-nat1-sample",
+      "src": "https://raw.githubusercontent.com/Lembitsky/poka-les-pomnit-assets/main/event_nadin_nat1_sample_disaster.png",
+      "title": "Великий провал: Надин против биологии",
+      "caption": "Критический провал при попытке взять образец у белого камня.",
+      "category": "scenes",
+      "canon": true,
+      "session": 13,
+      "tags": [
+        "Надин",
+        "nat1",
+        "белый камень"
+      ]
     }
   ],
   "checkpoint": {
