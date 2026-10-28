@@ -444,6 +444,16 @@
         "Добавлена запись полевого журнала о событиях дня и обеих романтических линиях.",
         "Картинки в медиа не привязаны: ассеты ещё не размещены в GitHub."
       ]
+    },
+    {
+      "date": "2026-10-28",
+      "session": 13,
+      "label": "Галерея · Надин и Тарен · Надин и Лиор",
+      "changes": [
+        "Добавлена картина «Там, где не нужны слова».",
+        "Добавлена картина «Там, где можно просто быть».",
+        "Изображения загружаются из файлов GitHub, без публикации сайта."
+      ]
     }
   ],
   "active_threads": [
@@ -597,6 +607,48 @@
         "белый камень"
       ],
       "critical": 1
+    },
+    {
+      "id": "scene-nadin-taren-where-words-fade",
+      "src": "https://raw.githubusercontent.com/Lembitsky/poka-les-pomnit-assets/main/scene_nadin_taren_where_words_fade.png",
+      "title": "Там, где не нужны слова",
+      "caption": "Поздно ночью в доме лесничего Надин бережно перевязывает левое предплечье Тарена. После трудного разговора забота говорит сама за себя.",
+      "category": "scenes",
+      "canon": true,
+      "session": 13,
+      "tags": [
+        "Надин",
+        "Тарен",
+        "перевязка",
+        "дом лесничего",
+        "ночь"
+      ],
+      "related": [
+        "nadin",
+        "taren",
+        "forester-house"
+      ]
+    },
+    {
+      "id": "scene-nadin-lior-just-be",
+      "src": "https://raw.githubusercontent.com/Lembitsky/poka-les-pomnit-assets/main/scene_nadin_lior_just_be.png",
+      "title": "Там, где можно просто быть",
+      "caption": "У живого лесного ручья Надин показывает Лиору, как бережно собирать серебряную водницу. Тихий день и первый урок травничества.",
+      "category": "scenes",
+      "canon": true,
+      "session": 13,
+      "tags": [
+        "Надин",
+        "Лиор",
+        "серебряная водница",
+        "лесной ручей",
+        "травничество"
+      ],
+      "related": [
+        "nadin",
+        "lior",
+        "living-forest-stream"
+      ]
     }
   ],
   "checkpoint": {
@@ -3318,8 +3370,8 @@
     ]
   },
   "update_notifications": {
-    "batch_id": "stage87-session13-night-2026-10-28",
-    "title": "Сессия 13 · История Колодца и ночь в доме лесничего",
+    "batch_id": "stage87-session13-gallery-2026-10-28",
+    "title": "Сессия 13 · две новые иллюстрации",
     "created_at": "2026-10-28",
     "ui_version": "stage87-change-tree",
     "groups": [
@@ -3404,6 +3456,34 @@
             "changes": [
               "Совместное травничество.",
               "Тёплая близость и прикосновения."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "media",
+        "label": "Галерея",
+        "page": "gallery",
+        "tab": "scenes",
+        "items": [
+          {
+            "id": "gallery-scene-nadin-taren-where-words-fade",
+            "kind": "media",
+            "target": "scene-nadin-taren-where-words-fade",
+            "label": "Там, где не нужны слова",
+            "changes": [
+              "Новая иллюстрация сессии 13",
+              "Добавлена в раздел «Сцены»"
+            ]
+          },
+          {
+            "id": "gallery-scene-nadin-lior-just-be",
+            "kind": "media",
+            "target": "scene-nadin-lior-just-be",
+            "label": "Там, где можно просто быть",
+            "changes": [
+              "Новая иллюстрация сессии 13",
+              "Добавлена в раздел «Сцены»"
             ]
           }
         ]
